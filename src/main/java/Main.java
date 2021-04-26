@@ -24,6 +24,6 @@ public class Main {
 
 //         Data displaying
 
-        displayResult.show();
+        DisplayResult.show();
     }
 }

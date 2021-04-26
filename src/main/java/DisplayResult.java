@@ -1,4 +1,4 @@
-public class displayResult {
+public class DisplayResult {
     public static void show(){
         System.out.println("");
         for (int i = 0; i < StorageOfKeywords.listLength; i++) {
