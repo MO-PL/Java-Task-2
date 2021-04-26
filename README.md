@@ -29,6 +29,6 @@ Wywołanie powinno wyglądać tak:
 "java Main aaa parcel_aaa.xml"
 
 Stosunkowo łatwo można dodać inne formaty rejestrów np angielski,
-wystarczy dodać listę słow kluczowych do klasy StorageOfKeywords, 
+wystarczy dodać listę słów kluczowych do klasy StorageOfKeywords, 
 zmienić funkcję if na switch w klasie PrintAllHandlerSax,
 oraz dodać nowy format do validacji danych wejściowych w klasie InputValidation.
