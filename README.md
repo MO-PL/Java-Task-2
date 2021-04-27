@@ -16,7 +16,7 @@ Call should look like this:
 
 PL:
 
-Aplikacja służy do odczytania wybranych danych z rejestru katastralnego zapisanego w fliku XML
+Aplikacja służy do odczytania wybranych danych z rejestru katastralnego zapisanego w pliku XML
 
 Aby uruchomić aplikację w wierszu poleceń otwórz cmd,
 znajdź folder Java-Task-2/src/main/java/,
